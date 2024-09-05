@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @sudoclean
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sudoclean/sudoclean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+ _____ ______   ________  ________  _______   ________      
+|\   _ \  _   \|\   __  \|\   ____\|\  ___ \ |\   ____\     
+\ \  \\\__\ \  \ \  \|\  \ \  \___|\ \   __/|\ \  \___|_    
+ \ \  \\|__| \  \ \  \\\  \ \_____  \ \  \_|/_\ \_____  \   
+  \ \  \    \ \  \ \  \\\  \|____|\  \ \  \_|\ \|____|\  \  
+   \ \__\    \ \__\ \_______\____\_\  \ \_______\____\_\  \ 
+    \|__|     \|__|\|_______|\_________\|_______|\_________\
+                            \|_________|        \|_________|
+                                                            
+                                                            
